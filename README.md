@@ -1,0 +1,2 @@
+# Otomatik-koklamaya
+Deneme 
